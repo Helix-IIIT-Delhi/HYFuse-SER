@@ -15,7 +15,7 @@ Compression-based representations (CBRs) from neural audio codecs such as EnCode
 ---
 
 <div align="center">
-    <img src="SEC_archi.drawio-1.png" alt="Pipeline" style="width: 80%;"/>
+    <img src="SEC_archi.drawio-1.png" alt="Pipeline" style="width: 100%;"/>
 </div>
 
 ---
