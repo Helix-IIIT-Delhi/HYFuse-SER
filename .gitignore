@@ -1,0 +1,15 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+.env
+.build/
+dist/
+*.log
+
+# mac/linux
+.DS_Store
