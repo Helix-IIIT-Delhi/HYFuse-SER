@@ -1,3 +1,17 @@
+<div align="center">
+
+# HYFuse (Hyperbolic fusion)
+## HYFuse: Aligning Heterogeneous Speech Pre-Trained Representations in Hyperbolic Space for Speech Emotion Recognition
+[![arXiv](https://img.shields.io/badge/arXiv-2506.0340-b31b1b.svg)](https://arxiv.org/pdf/2506.03403v1), [INTERSPEECH 2025]
+
+</div>
+
+---
+
+**Abstract**  
+Compression-based representations (CBRs) from neural audio codecs such as EnCodec capture intricate acoustic features like pitch and timbre, while representation-learning-based representations (RLRs) from pre-trained models trained for speech representation learning such as WavLM encode high-level semantic and prosodic information. Previous research on Speech Emotion Recognition (SER) has explored both, however, fusion of CBRs and RLRs haven't been explored yet. In this study, we solve this gap and investigate the fusion of RLRs and CBRs and hypothesize they will be more effective by providing complementary information. To this end, we propose, HYFuse, a novel framework that fuses the representations by transforming them to hyperbolic space. With HYFuse, through fusion of x-vector (RLR) and Soundstream (CBR), we achieve the top performance in comparison to individual representations as well as the homogeneous fusion of RLRs and CBRs and report SOTA.
+---
+
 ## Fixed curvature (default)
 
 ```
