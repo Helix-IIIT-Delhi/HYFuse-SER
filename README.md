@@ -2,8 +2,6 @@
 
 # HYFuse: Hyperbolic Fusion for Speech Emotion Recognition
 
-## Aligning Heterogeneous Speech Pre-Trained Representations in Hyperbolic Space
-
 [![Paper](https://img.shields.io/badge/Paper-Interspeech%202025-blue)](https://www.isca-archive.org/interspeech_2025/phukan25b_interspeech.html)
 [![arXiv](https://img.shields.io/badge/arXiv-2506.03403-b31b1b.svg)](https://arxiv.org/pdf/2506.03403v1)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
